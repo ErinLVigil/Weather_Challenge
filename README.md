@@ -1,6 +1,6 @@
-# Weather_Challenge
+# Weather Challenge
 
-##Overview
+## Overview
   The purpose of this analysis is to use APIs in order to create maps with cities that fit a certain weather criteria, locate hotels nearby, and create driving itinerary between a few of those cities.
   
 ### Methodology
